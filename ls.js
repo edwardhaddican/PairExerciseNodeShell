@@ -11,3 +11,5 @@ const lsFunction = fs.readdir('./', 'utf8', (err, files) => {
 })
 
 module.exports = lsFunction
+
+
